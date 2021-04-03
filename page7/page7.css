@@ -1,0 +1,63 @@
+.static {
+    position: static;
+    border: solid blueviolet 5px;
+}
+
+.relative1 {
+    position: relative;
+    margin: 10px auto;
+    padding: 10px;
+    border: solid blue 5px;
+}
+
+.relative2 {
+    position: relative;
+    top: -20px;
+    left: 20px;
+    background-color: white;
+    width: 500px;
+    margin: 10px auto;
+    padding: 10px;
+    border: solid green 5px;
+}
+
+.fixed {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 200px;
+    background-color: white;
+    margin: 10px auto;
+    padding: 10px;
+    border: solid yellow 10px;
+}
+
+.relative {
+    position: relative;
+    width: 600px;
+    height: 400px;
+    margin: 10px auto;
+    padding: 10px;
+    border: solid red 5px;
+}
+
+.absolute {
+    position: absolute;
+    top: 300px;
+    right: 364px;
+    width: 300px;
+    height: 200px;
+    margin: 10px auto;
+    padding: 10px;
+    border: solid pink 5px;
+}
+
+html {
+    font-family: helvetica, arial, sans-serif;
+    letter-spacing: 1px;
+    padding-top: 10px;
+}
+
+h1 {
+    color: blueviolet;
+}

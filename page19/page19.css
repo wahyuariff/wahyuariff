@@ -1,0 +1,18 @@
+html {
+    font-family: helvetica, arial, sans-serif;
+    letter-spacing: 1px;
+    padding-top: 10px;
+}
+
+h1 {
+    color: blueviolet;
+}
+
+img {
+    float: right;
+    margin: 0 0 1em 1em;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 300px;
+}

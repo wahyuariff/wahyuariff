@@ -1,0 +1,40 @@
+.container {
+    position: relative;
+    border: solid black 5px;
+}
+
+nav {
+    position: absolute;
+    left: 0px;
+    width: 190px;
+    border: solid blue 5px;
+}
+
+section {
+    margin-left: 200px;
+    border: solid green 5px;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    height: 50px;
+    background-color: white;
+    width: 100%;
+    border: solid red 10px;
+}
+
+body {
+    margin-bottom: 120px;
+}
+
+html {
+    font-family: helvetica, arial, sans-serif;
+    letter-spacing: 1px;
+    padding-top: 10px;
+}
+
+h1 {
+    color: blueviolet;
+}

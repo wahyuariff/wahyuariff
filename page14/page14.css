@@ -1,0 +1,36 @@
+@media (min-width:600px) {
+    nav {
+        float: left;
+        width: 24.5%;
+        border: solid blue 5px;
+    }
+
+    section {
+        margin-left: 25%;
+        border: solid red 5px;
+    }
+
+    .container {
+        border: solid yellow 5px;
+    }
+}
+
+@media (max-width:599px) {
+    nav li {
+        display: inline;
+    }
+}
+
+@-o-viewport {
+    width: 320px;
+}
+
+html {
+    font-family: helvetica, arial, sans-serif;
+    letter-spacing: 1px;
+    padding-top: 10px;
+}
+
+h1 {
+    color: blueviolet;
+}

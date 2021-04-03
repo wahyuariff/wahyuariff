@@ -1,0 +1,23 @@
+.simple {
+    width: 500px;
+    margin: 20px auto;
+    border: solid blue 5px;
+}
+
+.fancy {
+    width: 500px;
+    margin: 20px auto;
+    padding: 50px;
+    border-width: 10px;
+    border: solid green 5px;
+}
+
+html {
+    font-family: helvetica, arial, sans-serif;
+    letter-spacing: 1px;
+    padding-top: 10px;
+}
+
+h1 {
+    color: blueviolet;
+}

@@ -1,0 +1,33 @@
+nav {
+    display: inline-block;
+    vertical-align: top;
+    width: 22%;
+    border: solid blue 5px;
+}
+
+.column {
+    display: inline-block;
+    vertical-align: top;
+    width: 76%;
+    border: solid red 5px;
+}
+
+section {
+    width: 99%;
+    border: solid green 5px;
+}
+
+.container {
+    width: 99%;
+    border: solid yellow 5px;
+}
+
+html {
+    font-family: helvetica, arial, sans-serif;
+    letter-spacing: 1px;
+    padding-top: 10px;
+}
+
+h1 {
+    color: blueviolet;
+}
