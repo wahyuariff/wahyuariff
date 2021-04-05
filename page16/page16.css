@@ -1,24 +1,23 @@
 nav {
     display: inline-block;
     vertical-align: top;
-    width: 22%;
+    width: 25%;
     border: solid blue 5px;
+    float: left;
 }
 
 .column {
     display: inline-block;
     vertical-align: top;
-    width: 76%;
+    width: 70%;
     border: solid red 5px;
 }
 
 section {
-    width: 99%;
     border: solid green 5px;
 }
 
 .container {
-    width: 99%;
     border: solid yellow 5px;
 }
 
